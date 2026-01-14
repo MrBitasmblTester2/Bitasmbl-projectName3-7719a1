@@ -1,0 +1,1 @@
+export default function AboutSection(){return(<section id='about' aria-labelledby='about-title'><h2 id='about-title'>About</h2><p>Short bio introducing your background and focus.</p><ul aria-label='Core skills'><li>UI/UX</li><li>Frontend</li><li>Accessibility</li></ul></section>);}
