@@ -1,0 +1,1 @@
+export default function HeroSection(){return(<section id='hero' aria-labelledby='hero-title'><div><h1 id='hero-title'>Designer & Developer</h1><p>Crafting clean, modern web experiences.</p><div><a href='#work'>View work</a><a href='#contact'>Get in touch</a></div></div></section>);}
