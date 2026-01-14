@@ -1,0 +1,1 @@
+export default function ContactSection(){return(<section id='contact' aria-labelledby='contact-title'><h2 id='contact-title'>Contact</h2><p>Ready to discuss a project?</p><a href='mailto:you@example.com'>Email me</a></section>);}
