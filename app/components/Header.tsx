@@ -1,0 +1,1 @@
+export default function Header(){return(<header><a href='#main' className='skip'>Skip to content</a><nav aria-label='Primary'><a href='#hero'>Home</a><a href='#work'>Work</a><a href='#about'>About</a><a href='#contact'>Contact</a></nav></header>);}
