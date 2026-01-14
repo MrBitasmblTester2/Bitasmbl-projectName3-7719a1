@@ -1,0 +1,1 @@
+export default function HomePage(){return(<main><section id='hero'></section><section id='work'></section><section id='about'></section><section id='contact'></section></main>);}
