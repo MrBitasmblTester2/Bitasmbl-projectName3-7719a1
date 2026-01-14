@@ -1,0 +1,1 @@
+export default function Footer(){const year=new Date().getFullYear();return(<footer><p>© {year} Your Name</p><nav aria-label='Footer'><a href='#hero'>Top</a></nav></footer>);}
